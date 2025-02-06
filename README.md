@@ -1,4 +1,4 @@
-# Proyecto: Fashion Mnist Image Generator
+# Proyecto: Fashion MNIST Image Generator
 Este proyecto utiliza un modelo basado en DCGAN (Deep Convolutional Generative Adversarial Network) para generar imágenes realistas a partir del conjunto de datos Fashion MNIST. 
 
 Al entrenar al generador y al discriminador, lograremos crear red capaz de crear nuevas imágenes similares a las del dataset original.
@@ -37,4 +37,4 @@ Luego, abre el cuaderno correspondiente para trabajar con las GANs y aprender so
 ## Referencias
 Durante este proyecto se ha consultado recursos y optimizacione del paper oficial publicado en este mismo dataset:
 
-- Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks by Alec Radford, Luke Metz, Soumith Chintala.
+- *Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks* by **Alec Radford**, **Luke Metz**, **Soumith Chintala**.
