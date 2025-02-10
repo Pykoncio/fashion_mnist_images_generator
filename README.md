@@ -48,6 +48,6 @@ También puedes encontrar ejemplos generados en la carpeta [samples_generated](s
 ![Imagen generada 3](samples_generated/image_15.png)
 
 ## Referencias
-Durante este proyecto se ha consultado recursos y optimizacione del paper oficial publicado en este mismo dataset:
+Durante este proyecto se ha consultado recursos y optimizaciones del paper oficial publicado en este mismo dataset:
 
 - *Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks* by **Alec Radford**, **Luke Metz**, **Soumith Chintala**.
